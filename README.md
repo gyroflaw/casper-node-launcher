@@ -1,3 +1,6 @@
+## Archieved
+Please check https://github.com/casper-network/casper-node-launcher-js
+
 # casper-node-launcher
 
 The npm library for makes easy to run casper node for test purpose.
